@@ -5,7 +5,7 @@ Generates 10 digit random password contains only numbers &amp; tries to crack th
 ![screenshot_DV](https://user-images.githubusercontent.com/56561641/118130195-c81b4a80-b405-11eb-85b2-3f9a9adb8b38.PNG)
 
 ## Rules
-The password of the digital vault is a 10-digit series of numbers. It is known that the following rules are followed when determining the password of the safe.
+The password of the digital vault is a 10-digit series of numbers. It is known that the following rules are followed when determining the password of the vault.
 
 * The first digit of the password indicates how many zeros are used on the password.
 * The second digit of the password indicates how many ones are used on the password.
