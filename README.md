@@ -9,13 +9,13 @@ The password of the digital vault is a 10-digit series of numbers. It is known t
 
 * The first digit of the password indicates how many zeros are used on the password.
 * The second digit of the password indicates how many ones are used on the password.
-* The third digit of the password indicates how many two digits are used on the password.
-* The fourth digit of the password indicates how many three digits are used on the password.
-* The fifth digit of the password indicates how many four digits are used on the password.
-* The sixth digit of the password indicates how many five digits are used on the password.
-* The seventh digit of the password indicates how many six digits are used on the password.
-* The eighth digit of the password indicates how many seven digits are used on the password.
-* The nineth digit of the password indicates how many eight digits are used on the password.
-* The tenth digit of the password indicates how many nine digits are used on the password.
+* The third digit of the password indicates how many twos are used on the password.
+* The fourth digit of the password indicates how many threes are used on the password.
+* The fifth digit of the password indicates how many fours are used on the password.
+* The sixth digit of the password indicates how many fives are used on the password.
+* The seventh digit of the password indicates how many sixes are used on the password.
+* The eighth digit of the password indicates how many sevens are used on the password.
+* The nineth digit of the password indicates how many eights are used on the password.
+* The tenth digit of the password indicates how many nines are used on the password.
 
 The keypad on the digital vault has a special locking system to prevent random password attempts. This system prevents the keypad from being used by locking the keypad for thirty seconds when the wrong password is entered.
